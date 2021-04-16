@@ -1,0 +1,5 @@
+discord.py
+requests 
+discord-pretty-help
+wikipedia
+alexflipnote.py==2.0.0
